@@ -29,7 +29,7 @@ gem 'mongoid-rspec', :group => :test
 
 gem 'capybara'
 gem 'bson_ext'
-gem 'omniauth'
+gem 'omniauth', '1.0.2'
 gem 'omniauth-twitter'
 
 # To use ActiveModel has_secure_password
