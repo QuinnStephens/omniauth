@@ -182,6 +182,7 @@ DEPENDENCIES
   factory_girl_rails
   haml-rails (>= 0.3.4)
   jquery-rails
+  mongoid
   mongoid-rspec
   omniauth
   omniauth-twitter

@@ -20,6 +20,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'mongoid'
 
 gem 'rspec-rails', :group => [:development, :test]
 gem 'database_cleaner', :group => :test
